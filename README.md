@@ -1,7 +1,8 @@
 # Report
 Report for LLM research
 ---
-- 1. `IA3방식`으로 KoAlpaca를 fine tuning한 한국어 LLM모델
+
+# 1. `IA3방식`으로 KoAlpaca를 fine tuning한 한국어 LLM모델
  
   - 훈련 경과 표 ⏳
 훈련방식 | 파라미터수 | 훈련 소요시간 | Inference time
